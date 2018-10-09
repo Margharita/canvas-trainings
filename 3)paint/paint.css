@@ -1,0 +1,9 @@
+.cl{
+    width: 1000px;
+    height: 500px;
+    border: 3px groove #888d8f;
+    margin: 40px;
+    background: url('http://bgfons.com/uploads/notebook/notebook_texture2464.jpg') center no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 50px 6px #000;
+}
